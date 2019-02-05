@@ -11,7 +11,9 @@ Equipment Used:
 
 Notes and Observations:
 
-Diagrams: See the Design Diagram.png and Design Diagram.mp4 files for appropriate documentation.
+Diagrams: See the 
+        CMST315-LAB-1/Design Diagram.png
+      Design Diagram.png and Design Diagram.mp4 files for appropriate documentation.
 
 References:
 
