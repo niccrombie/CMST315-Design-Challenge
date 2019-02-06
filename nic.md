@@ -4,7 +4,7 @@ Class: CMST 315<br>
 <b>Names:</b> Matthew Denhom, Nic Crombie, Caroline Reed<br>
 <b>Objective:</b><br> The objective of the lab was to create and design a network for a regional Internet Service Provider (ISP) using Variable Length Subnet Masking (VLSM) to meet the needs of 4 clients, and allow for room to grow and expand as an ISP. Given a network address prefix to work with we were to design the optimal network addressing scheme.
 
-<b>Equipment Used:</b><br><br>
+<b>Equipment Used:</b><br>
 
 Blender (for the diagram) (Matt D.)<br>
 Powerpoint <br>
